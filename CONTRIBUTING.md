@@ -6,8 +6,17 @@ If you are not sure whether something is worth raising, please raise it anyway. 
 
 For the current contribution priorities, see [ROADMAP.md](./ROADMAP.md).
 
+## Contributor License Agreement
+
+By submitting a contribution to this repository after [CLA.md](./CLA.md) has been made available, you agree to the AgentTrader Individual Contributor License Agreement.
+
+A contribution includes code, documentation, examples, tests, fixtures, mock data, designs, issue comments, pull requests, patches, suggestions, or other material intentionally submitted to AgentTrader through GitHub or another project contribution channel.
+
+If you do not agree to the CLA, please do not submit contributions to this repository.
+
 ## Before You Start
 
+- Read [CLA.md](./CLA.md).
 - Read the module README for the area you want to change.
 - Keep changes scoped. Avoid mixing public-surface cleanup with large product refactors.
 - Do not commit credentials, private deployment details, or local `.env` files.
@@ -21,6 +30,7 @@ For the current contribution priorities, see [ROADMAP.md](./ROADMAP.md).
 
 ## Pull Request Checklist
 
+- You have read and agree to [CLA.md](./CLA.md).
 - The change is limited to one clear concern.
 - Any public API or Redis contract changes are documented.
 - New environment variables are added to the relevant `.env.example`.
