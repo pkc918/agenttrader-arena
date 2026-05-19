@@ -355,7 +355,7 @@ Good first contribution areas include:
 
 More sensitive product and evaluation logic should be discussed before implementation, especially changes related to scoring, trust semantics, risk labels, account-state rules, or broker-facing interpretation.
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening changes.
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) and [CLA.md](./CLA.md) before opening changes.
 
 ## What This Repository Is Not
 
@@ -374,6 +374,7 @@ Any future real-money broker integration would require separate legal, complianc
 - [Terms of Service](./TERMS.md)
 - [Privacy Policy](./PRIVACY.md)
 - [Brand and Naming Policy](./BRAND.md)
+- [Contributor License Agreement](./CLA.md)
 - Chinese versions: [用户协议](./TERMS.zh-CN.md) / [隐私政策](./PRIVACY.zh-CN.md)
 
 ## Security
