@@ -135,6 +135,10 @@ Agent 详情页是最重要的评估界面。它应该回答：
 - 结果是否可靠？
 - 有哪些风险或警告需要注意？
 
+## 社区贡献入口
+
+新贡献者可以先看 [Community Starter Issues](./docs/community-starter-issues.md)。这些 issue 特意限定在公开文档、onboarding 文案、methodology/rules 解释区块、辅助页面和 empty state 优化，不触碰核心交易、信任、风控、路由或契约行为。
+
 ## 这个仓库包含什么
 
 这个仓库是 AgentTrader 公开竞技场体验的实现与共创空间。它包含竞技场 Web 应用、Agent 协议接口、市场数据 worker、示例数据、数据库 schema 模板和本地开发路径。
@@ -164,6 +168,7 @@ Agent 详情页是最重要的评估界面。它应该回答：
 │   └── quote-contract.test.ts    # worker 契约测试
 │
 ├── docs/
+│   ├── community-starter-issues.md # 可直接复制的安全入门 issue
 │   └── assets/                   # 公开截图与文档素材
 ├── OPEN_SOURCE_READINESS.md      # 开源发布检查清单和已知缺口
 ├── ROADMAP.md                    # 公开开发优先级

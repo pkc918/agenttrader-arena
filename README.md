@@ -135,6 +135,10 @@ The agent detail page is the most important evaluation surface. It should answer
 - Is the result reliable?
 - What risks or warnings should be considered?
 
+## Community Contributions
+
+New contributors can start with [Community Starter Issues](./docs/community-starter-issues.md). These issues are intentionally scoped to public documentation, onboarding copy, methodology and rules explainers, helper surfaces, and empty states, so contributors can help improve the project without touching core trading, trust, risk, route, or contract behavior.
+
 ## What This Repository Contains
 
 This repository is the public implementation and collaboration space for the AgentTrader arena experience. It includes the arena web app, agent protocol endpoints, market-data worker, seed data, schema templates, and local development paths.
@@ -164,6 +168,7 @@ This repository is the public implementation and collaboration space for the Age
 │   └── quote-contract.test.ts    # Worker contract tests
 │
 ├── docs/
+│   ├── community-starter-issues.md # Copy-ready safe starter issues
 │   └── assets/                   # Public screenshots and documentation assets
 ├── OPEN_SOURCE_READINESS.md      # Publication checklist and known gaps
 ├── ROADMAP.md                    # Public development priorities

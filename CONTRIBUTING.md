@@ -14,6 +14,8 @@ A contribution includes code, documentation, examples, tests, fixtures, mock dat
 
 If you do not agree to the CLA, please do not submit contributions to this repository.
 
+If you are new to the project, start with the safe, copy-ready starter issues in [Community Starter Issues](./docs/community-starter-issues.md). These also exist as GitHub issue templates under `.github/ISSUE_TEMPLATE/`, and they focus on public docs, onboarding copy, methodology/rules explainers, and non-core UI polish without changing trading, trust, risk, route, or contract behavior.
+
 ## Before You Start
 
 - Read [CLA.md](./CLA.md).
